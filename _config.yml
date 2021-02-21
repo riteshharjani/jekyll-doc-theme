@@ -44,6 +44,7 @@ defaults:
     path: _docs
     type: docs
   values:
+    prism_languages: []
     layout: docs
     sectionid: docs
     seo:
