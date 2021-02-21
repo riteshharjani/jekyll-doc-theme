@@ -215,6 +215,7 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
+{: data-line="1"}
 
 ```
 No language indicated, so no syntax highlighting.
